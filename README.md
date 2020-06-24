@@ -1,0 +1,1 @@
+Notification and Result Patterns with FluentValidation Project
